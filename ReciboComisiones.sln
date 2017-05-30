@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReciboComisiones", "ReciboComisiones\ReciboComisiones.csproj", "{C1F40970-EA7D-40BE-B60B-8856986FBFD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comisiones", "Comisiones\Comisiones.csproj", "{5308522E-ECCF-4D55-A67F-272338A1332A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1F40970-EA7D-40BE-B60B-8856986FBFD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F40970-EA7D-40BE-B60B-8856986FBFD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F40970-EA7D-40BE-B60B-8856986FBFD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F40970-EA7D-40BE-B60B-8856986FBFD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5308522E-ECCF-4D55-A67F-272338A1332A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5308522E-ECCF-4D55-A67F-272338A1332A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5308522E-ECCF-4D55-A67F-272338A1332A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5308522E-ECCF-4D55-A67F-272338A1332A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
